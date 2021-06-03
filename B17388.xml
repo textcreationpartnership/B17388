@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The present condition of London-Derry with a particular relation of the cruelties acted by the Irish and French papists on the Protestants in Ireland.</title>
+            <author>W. B.</author>
+         </titleStmt>
+         <extent>Approx. 13KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B17388</idno><idno type="EEBO-CITATION">18519522</idno>
+  <idno type="VID">205211</idno>
+  <idno type="EEBO-PROQUEST">2240851670</idno>
+  
+            <idno type="STC">Wing B222</idno>
+            <idno type="OCLC">18519522</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B17388)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 205211)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1646:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The present condition of London-Derry with a particular relation of the cruelties acted by the Irish and French papists on the Protestants in Ireland.</title>
+                  <author>W. B.</author>
+               </titleStmt>
+               <extent>1 sheet (2 p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for J. Morris ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1689.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>"Licensed and entered according to order."</note>
+                  <note>Signed at end: W.B.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of the original in the Cambridge University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Ireland --  History --  War of 1689-1691.</term>
+               <term type="geographic_name">Great Britain --  Church history --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb facs="tcp:205211:1"/>
+            <pb n="1" facs="tcp:205211:1"/>
+            <head>The present Condition of <hi>LONDON-DERRY:</hi> WITH <hi>A particular Relation of the Cruelties acted by the</hi> Irish <hi>and</hi> French <hi>Papists on the Protestants in</hi> Ireland.</head>
+            <head type="sub">
+               <hi>Licensed and Entered according to Order.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>THis City and parts adjacent, is ex<g ref="char:EOLhyphen"/>tream full of the despoiled <hi>Prote<g ref="char:EOLhyphen"/>stants</hi> from <hi>Ireland,</hi> whose Condi<g ref="char:EOLhyphen"/>tions are most Deplorable, and under very different Circumstances. The Nobility, Gentry, and Clergie, are rob<g ref="char:EOLhyphen"/>bed and plundered of their personal Estates; and Sir <hi>Patrick Trant,</hi> and the rest of the Commissioners for Sequestring their Real Estates, have been so effectually Zealous therein as not to leave them power over one Peny Rent, or Arrears of Rent, but appro<g ref="char:EOLhyphen"/>priated all to the support of their Army.</p>
+            <p>The Lord Viscount <hi>Mazarine,</hi> in Plate, Money, Household-Goods, Horses, <hi>&amp;c.</hi> hath been plundred to the value of 20000 <hi>l.</hi>Ster<g ref="char:EOLhyphen"/>ling, or upward; and others proportionable. His Lordship, and some few more, with great difficulty, are got into <hi>Scotland.</hi> And upon a modest Computation, the <hi>Irish</hi> have already despoiled the <hi>Protestants,</hi> in Money, Plate, Stock, and Household-Good, at least Two Millions Sterling.</p>
+            <p>The Farmers and Trades-men are robbed and plundered of all their Stock and House<g ref="char:EOLhyphen"/>hold Goods, notwithstanding the several Declarations of <hi>Tyrconnel,</hi> and since of the late King, to the contrary; by which they and their Families are not only deprived of Bread, but the means to get it, and now lie at the mercy of their Robbers for their Lives and that which should support Life; whose Mercies are such, that they have basely murdered hundreds, and others have perished, and daily do, for want of Food. The rest living in the daily fear of having their Throats cut.</p>
+            <p>One Mr. <hi>Robert Burroughs,</hi> an Attorney and rich, had all his Substance taken from him, turn'd out of doors, and died in the Fields with Hunger and Cold. And as ma<g ref="char:EOLhyphen"/>ny other dismal Relations we have, as would fill a Volume.</p>
+            <p>The <hi>Protestants</hi> in the Province of <hi>Ulster,</hi> having Intelligence of the Bloudy, Inhu<g ref="char:EOLhyphen"/>mane, and Barbarous Cruelties exercised by the <hi>Irish</hi> on the <hi>Protestants</hi> in the other Pro<g ref="char:EOLhyphen"/>vinces, and dreading to fall under the like Cruelties, upon the first approach of the <hi>Irish</hi> Army, they universally deserted their Habitations, leaving their Goods, Corn, Hay, and Stock, as a Prey to their Enemies; who making their advances into their Coun<g ref="char:EOLhyphen"/>try, with a Force that they were no ways able to resist or oppose, the Women and Children in great Consternation, Wants, and Confusion, made towards <hi>Colrain</hi> and <hi>Lon<g ref="char:EOLhyphen"/>don Derry.</hi> The Men in the mean while em<g ref="char:EOLhyphen"/>bodying themselves, cut down their Bridges, and digged up the ways to make the Roads unpassable for their Bloudy Enemies; but having neither Moneys nor Provisions for their support, nor Arms or Ammunition suf<g ref="char:EOLhyphen"/>ficient for their defence, and the <hi>Irish</hi> so nu<g ref="char:EOLhyphen"/>merous as to encompass them, they were forced to a Retreat; and as they found the Enemies Force divided, they as frequently sallied forth upon them and beat them, thereby getting opportunities to set sire to their own Hay and Corn they had before deserted; and by both these ways so often distressed their Enemies, that their best Horse, which was the main strength of their Army, are so weakened and broken, as ne<g ref="char:EOLhyphen"/>ver to be able to recover or recruit the lost sustained. Though the late King was at the head of them with the flower of the Ar<g ref="char:EOLhyphen"/>my, these poor people, in a manner unarm'd, without Order, Discipline, or necessary Pro<g ref="char:EOLhyphen"/>visions, made this Resistance, in daily hopes of Succour; but numbers against them, and wants increasing, they were, with their Wives, Children, and Servants, forced and driven, like a flock of Sheep, until they came almost to the very Gates of <hi>London- Derry,</hi> in hopes of shelter; but alas! they found the Gates shut against them, and the Garrison refusing them Entrance, alledging their shortness of Provisions for support of such as were necessary to defend the place; and for that reason had advised Colonel <hi>Richards</hi> and Colonel <hi>Cunningham,</hi> with their Regiments, to go back for <hi>England;</hi> and also the same un<g ref="char:EOLhyphen"/>to the Lord <hi>Blaney,</hi> Sir <hi>Arthur Royden,</hi> Cap<g ref="char:EOLhyphen"/>tain <hi>Dawson,</hi> and some hundreds of Officers, who came to them from <hi>Colrain, viz.</hi> to speed into <hi>England,</hi> and hasten their return with the Army from <hi>England,</hi> that so they might be enabled to take the Field.</p>
+            <p>Accordingly the said two Regiments are come back, Col. <hi>Richards</hi>'s being quartered in this City. Since which, a Serjeant and a Soul<g ref="char:EOLhyphen"/>dier that deserted, have been tryed; the first is sentenced to die, and the latter to run the
+<pb n="2" facs="tcp:205211:2"/>Gantlet three times through two Regiments.</p>
+            <p>The <hi>Swallow</hi> Frigat was one of their Con<g ref="char:EOLhyphen"/>voys, Capt. — Commander, who brought over near 300 Passengers, amongst which were the brave Lord <hi>Blaney,</hi> Sir <hi>Arthur Royden,</hi> and many Persons of Quality, who make sad Complaints against the Captain, as more Barbarous than the <hi>Irish,</hi> for that he took from several two, three, and more Guineys for their passage, of few less than 20 <hi>s.</hi> and of those that had not Money, took their Silver<g ref="char:EOLhyphen"/>hilted Swords, Watches, <hi>&amp;c.</hi> nay kept some who had not such things on board, until he had forced them to signe Warrants to con<g ref="char:EOLhyphen"/>fess Judgments for what sums he pleased, tel<g ref="char:EOLhyphen"/>ling them, <hi>His Ship was his only Advantage, and that time his Harvest-time.</hi> Sir <hi>Arthur Royden</hi> had a fine Horse worth 100 <hi>l.</hi> which he would have shipt to present to the King, but he denied him and others; so Sir <hi>Arthur</hi> shot him dead, saying, <hi>The Papists should never have him;</hi> and some other Gentlemen also shot their Horses: which the Captain seeing, offered to ship those left, if the Owners would give him them; which some did, demanding them again on this side, but are refused. Of all which we hope his Majesty before this hath had humbly represented to him, and cause him to be exemplarily punished for such un<g ref="char:EOLhyphen"/>heard of Oppressions.</p>
+            <p>The late K. was a few days since with the Army at <hi>Strabane,</hi> ten miles short of <hi>London-Derry,</hi> but is now gone back to <hi>Dublin,</hi> and the Army not advanced nearer, when these Gentlemen came from <hi>Derry;</hi> which it's not doubted will be able to hold out, until the Succours from <hi>England</hi> by Sea, and by way of <hi>Scotland,</hi> arrives: for that the Garrison is unanimous, and in no want of Arms, Am<g ref="char:EOLhyphen"/>munition, or Provisions; though the late King's Army have destroy'd and spent all in the North that the <hi>Protestants</hi> left, which is the reason they do not advance further.</p>
+            <p>But that which is to be lamented, is the distressed Condition of some thousands of Men, Women, and Children, kept out of <hi>Derry,</hi> who it's feared will inevitably fall a Sacrifice to the <hi>Papists</hi> Cruelty, (or die by Hunger) they being commanded and paid by <hi>French</hi> Officers, who preside in Council, Ar<g ref="char:EOLhyphen"/>my, and Garrisons: So that <hi>Ireland</hi> is now be<g ref="char:EOLhyphen"/>come a <hi>French</hi> Province; and he who was lately King of <hi>England, Scotland, France,</hi> and <hi>Ireland,</hi> is now but the <hi>French</hi> King's Deputy of that Kingdom: which it is here credibly affirm'd, hath so disgusted the very <hi>Irish</hi> themselves, that Major General <hi>Maccarty,</hi> ma<g ref="char:EOLhyphen"/>ny of the Nobility and Gentry, and above 300 good Officers have thrown up their Commissions, seeing the <hi>French</hi> are put in over their heads in all great Commands and Trusts. And those of the <hi>Irish</hi> who are men of Estates and Sence, begin to wish themselves again under an <hi>English</hi> Government, though <hi>Protestant,</hi> and oft reflect on their Happiness under it; and also of an old <hi>Irish</hi> Proverb, of the <hi>Irish</hi> weeping over the <hi>English</hi> Graves.</p>
+            <p>And the most Judicious of the <hi>Irish Papists</hi> do say, <hi>That when the Parliament that the late K.</hi> James <hi>hath summon'd to assemble at</hi> Dublin, <hi>shall meet, they will be of opinion to save their Estates and Families, and advise their King to sit down with satisfaction without the Power of a King, and retire to a Monastery, espe<g ref="char:EOLhyphen"/>cially finding all his Designs frustrated in</hi> Scotland, <hi>and his Friends in</hi> Ireland <hi>leave him, the fore-door and back-door shut and bolted in both Kingdoms, and a Confederate Army, and a Naval Force, sufficient to Conquer</hi> France, <hi>ready to pour in upon them.</hi>
+            </p>
+            <p>The Town of <hi>Colrain</hi> is in the County of <hi>Antrim,</hi> an open place, not capable of Defence, but was made use of by the Protestants as a place of Ren<g ref="char:EOLhyphen"/>dezvous and Shelter, and amongst them by the afore<g ref="char:EOLhyphen"/>mentioned Lord <hi>Blaney,</hi> the Lord <hi>Kingston,</hi> and many Persons of Quality, who with what Force and Arms they could get together, bravely suppor<g ref="char:EOLhyphen"/>ted the Protestant Interest, in expectation of a Force from <hi>England,</hi> to be enabled to take the Field, and secure that part of the Kingdom; but the <hi>Irish</hi> Ar<g ref="char:EOLhyphen"/>my advancing upon them so early, that they were constrained to leave it, and retire to the City of <hi>London-Derry;</hi> whence our last Advices here say, That their Governour, Col. <hi>Lundee,</hi> hath given them such cause to suspect his Faithfulness, that they have seized and Confined him, and made one Mr. <hi>George Walker,</hi> a Minister, Governour; and some affirm, that lately came from thence, that the said Colonel, either through Cowardize or Persidy, dis<g ref="char:EOLhyphen"/>couraged and prevented the Garrison from taking those advantages against the Enemy that were offered, and thereby prevented the securing the whole Nor<g ref="char:EOLhyphen"/>thern parts.</p>
+            <p>It's reported here, that the late King sent a very kind Letter to the Lord <hi>Blaney,</hi> insinuating the Loy<g ref="char:EOLhyphen"/>alty and Services of his Family, perswading him to lay down his Arms, and surrender <hi>Coltain,</hi> and all he had done should be buried in Oblivion, and his Lord<g ref="char:EOLhyphen"/>ship received into Favour. But his Lordship answer'd, <hi>He had now a King upon whose Word he could depend and trust; but never would to his, but with his Sword in his Hand.</hi> His Lordship hath a very great Inte<g ref="char:EOLhyphen"/>rest in the <hi>North</hi> of <hi>Ireland,</hi> and stayed with them un<g ref="char:EOLhyphen"/>til he had spent of his own Estate all he had in Mo<g ref="char:EOLhyphen"/>ney, or could raise on his Tenants; and it's thought did not bring into <hi>England</hi> 5 <hi>l.</hi> the rest being laid out for Arms, and towards the support of those that adhered to him; in whose, and the Country's Hearts, his Lord<g ref="char:EOLhyphen"/>ship hath raised a Monument of lasting Honour.</p>
+            <p>The Numbers of Gentry and others now here from <hi>Ireland,</hi> hath caused all sorts of Provisions to advance in price: for remedy of which, our wor<g ref="char:EOLhyphen"/>thy Mayor hath Proclaimed a Free Market to be held every day. We have a Report, that his Maje<g ref="char:EOLhyphen"/>sty hath displaced Col. <hi>Richards,</hi> and Col. <hi>Cunning<g ref="char:EOLhyphen"/>ham,</hi> and given their Commands to Sir <hi>George Saint George,</hi> late of <hi>Ireland,</hi> and Col. <hi>Stuart,</hi> who com<g ref="char:EOLhyphen"/>manded a Company in the late Royal Regiment of Foot-Guards, and that they are expected down this Week from <hi>London;</hi> and with all the other Forces on the <hi>West</hi> and <hi>Northern</hi> Coast, to Embarque forth<g ref="char:EOLhyphen"/>with for <hi>Dublin.</hi> Thus, Sir, I have in a tedious un<g ref="char:EOLhyphen"/>digested manner, as well as I could, answer'd your desire; and am,</p>
+            <closer>
+               <salute>SIR,</salute>
+               <signed>Yours, W. B.</signed>
+               <dateline>Chester, <date>
+                     <hi>May</hi> 1. 1689.</date>
+               </dateline>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>J. Morris,</hi> in <hi>Fleet-street.</hi> 1689.</p>
+            <pb facs="tcp:205211:2"/>
+         </div>
+      </back>
+   </text>
+</TEI>
